@@ -4,3 +4,7 @@
 
 # output folder from Docker command
 /dist
+
+# rootfs overlay usbip binaries
+board/licheepi_nano/rootfs-overlay/root/usbip*
+

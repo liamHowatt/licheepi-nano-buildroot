@@ -82,6 +82,7 @@
 		partition@520000 {
 			label = "rootfs";
 			reg = <0x510000 0xAF0000>;
+			read-only;
 		};
 	};
 };
